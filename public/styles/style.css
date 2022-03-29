@@ -1,3 +1,7 @@
 .badge-copy {
   cursor: pointer;
 }
+
+.span-url {
+  width: 45px;
+}
